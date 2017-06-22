@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "{e110ba10-55b9-11e7-8ba0-23b1518473b8}"
+        },
+        "cordova-plugin-ms-azure-mobile-apps": {
+            "PACKAGE_NAME": "{e110ba10-55b9-11e7-8ba0-23b1518473b8}"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{e110ba10-55b9-11e7-8ba0-23b1518473b8}"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "{e110ba10-55b9-11e7-8ba0-23b1518473b8}"
+        }
+    },
+    "dependent_plugins": {}
+}
