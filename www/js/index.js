@@ -116,7 +116,7 @@
         if (useOfflineSync) {
             todoItemTable = client.getSyncTable('todoitem');
         } else {
-            todoItemTable = client.getTable(tableName);
+            todoItemTable = client.getTable('todoitem');
         }
 
         // Refresh the todoItems
